@@ -1,0 +1,56 @@
+<ipe version="60026" creator="Ipe 6.0 preview 26">
+<info media="0 0 842 595" created="D:20060519173247" modified="D:20060521145126" title="Logo IEG 2006" bbox="cropbox"/>
+<preamble>\renewcommand\rmdefault{cmss}</preamble>
+<ipestyle name="presentation">
+<linewidth name="normal" value="1.2"/>
+<linewidth name="heavier" value="2.4"/>
+<linewidth name="fat" value="3.6"/>
+<linewidth name="ultrafat" value="6"/>
+<marksize name="normal" value="9"/>
+<marksize name="large" value="15"/>
+<marksize name="small" value="6"/>
+<marksize name="tiny" value="3.3"/>
+<arrowsize name="normal" value="21"/>
+<arrowsize name="large" value="30"/>
+<arrowsize name="small" value="15"/>
+<arrowsize name="tiny" value="9"/>
+<textstretch name="normal" value="3 3"/>
+<textstretch name="large" value="3 3"/>
+<textstretch name="Large" value="3 3"/>
+<textstretch name="LARGE" value="3 3"/>
+<textstretch name="huge" value="3 3"/>
+<textstretch name="Huge" value="3 3"/>
+<textstretch name="small" value="3 3"/>
+<textstretch name="footnote" value="3 3"/>
+<textstretch name="tiny" value="3 3"/>
+<preamble>
+\newenvironment{ITEM}{\begin{itemize}\item}{\end{itemize}}
+</preamble>
+<margins tl="72 72" br="72 72"/>
+</ipestyle>
+<page gridsize="4">
+<layer name="alpha"/>
+<view layers="alpha" active="alpha"/>
+<path layer="alpha" stroke="red" matrix="1.87191 0 0 1.87191 175.772 -936.997" pen="10">
+128 800 m
+128 652 l
+</path>
+<path stroke="white" matrix="1.81602 0.454005 -0.340504 1.36201 27.9218 -718.955" fill="black" pen="heavier">
+48 0 0 48 288 640 e
+</path>
+<path stroke="red" matrix="1.87191 0 0 1.87191 55.9703 -936.997" pen="10">
+128 800 m
+128 652 l
+</path>
+<path stroke="white" matrix="1.81602 0.454005 -0.340504 1.36201 -91.8803 -733.93" fill="black" pen="heavier">
+48 0 0 48 288 640 e
+</path>
+<path stroke="red" matrix="1.87191 0 0 1.87191 -3.93073 -936.997" pen="10">
+128 800 m
+128 620 l
+</path>
+<path stroke="white" matrix="1.81602 0.454004 -0.340503 1.36201 -151.781 -786.343" fill="black" pen="heavier">
+48 0 0 48 288 640 e
+</path>
+</page>
+</ipe>

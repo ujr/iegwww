@@ -1,0 +1,16 @@
+<!-- Default Statcounter code for IEG
+http://www.instrumentalensemble.ch/ -->
+<script type="text/javascript">
+var sc_project=4024657; 
+var sc_invisible=1; 
+var sc_security="da0da808"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="http://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="//c.statcounter.com/4024657/0/da0da808/1/" alt="Web
+Analytics"></a></div></noscript>
+<!-- End of Statcounter Code -->

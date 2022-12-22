@@ -1,0 +1,20 @@
+/* Style for IEG website, created 2006-05-20, modified */
+body { margin:5pc; margin-top:2pc;
+ background-color:white; font-family:sans-serif }
+img { border:0pt }
+hr { border:none; height:1px; color:#888; background-color:#888 }
+.who { color:#a70; font-weight:bold }
+.what { color:#821; font-weight:bold }
+.del { text-decoration: line-through }
+em { color:#a21; font-weight:bold; font-style:normal }
+
+ul.sponsors { list-style-type:none; padding-left:0pt; line-height:150% }
+
+table.schedule { border-collapse:collapse }
+table.schedule td { background-color:#ddd;
+ border:1px solid black; border-right:none; padding:4px }
+table.schedule th { background-color:#aaa;
+ border:1px solid black; border-right:none; padding:4px }
+table.schedule td:first-child { border-left:none }
+table.schedule th:first-child { border-left:none }
+table.schedule td.sep { background-color:transparent; border:none }

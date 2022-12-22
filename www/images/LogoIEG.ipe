@@ -1,0 +1,67 @@
+<ipe version="60026" creator="Ipe 6.0 preview 26">
+<info media="0 0 842 595" created="D:20060519173247" modified="D:20060519182632" title="Logo IEG 2006" bbox="cropbox"/>
+<preamble>\renewcommand\rmdefault{cmss}</preamble>
+<ipestyle name="presentation">
+<linewidth name="normal" value="1.2"/>
+<linewidth name="heavier" value="2.4"/>
+<linewidth name="fat" value="3.6"/>
+<linewidth name="ultrafat" value="6"/>
+<marksize name="normal" value="9"/>
+<marksize name="large" value="15"/>
+<marksize name="small" value="6"/>
+<marksize name="tiny" value="3.3"/>
+<arrowsize name="normal" value="21"/>
+<arrowsize name="large" value="30"/>
+<arrowsize name="small" value="15"/>
+<arrowsize name="tiny" value="9"/>
+<textstretch name="normal" value="3 3"/>
+<textstretch name="large" value="3 3"/>
+<textstretch name="Large" value="3 3"/>
+<textstretch name="LARGE" value="3 3"/>
+<textstretch name="huge" value="3 3"/>
+<textstretch name="Huge" value="3 3"/>
+<textstretch name="small" value="3 3"/>
+<textstretch name="footnote" value="3 3"/>
+<textstretch name="tiny" value="3 3"/>
+<preamble>
+\newenvironment{ITEM}{\begin{itemize}\item}{\end{itemize}}
+</preamble>
+<margins tl="72 72" br="72 72"/>
+</ipestyle>
+<page gridsize="4">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<view layers="alpha beta gamma" active="beta"/>
+<path layer="alpha" stroke="red" matrix="1.87191 0 0 1.87191 175.772 -936.997" pen="ultrafat">
+128 800 m
+128 652 l
+</path>
+<path stroke="white" matrix="1.81602 0.454005 -0.340504 1.36201 27.9218 -718.955" fill="black" pen="heavier">
+48 0 0 48 288 640 e
+</path>
+<path stroke="red" matrix="1.87191 0 0 1.87191 55.9703 -936.997" pen="ultrafat">
+128 800 m
+128 652 l
+</path>
+<path stroke="white" matrix="1.81602 0.454005 -0.340504 1.36201 -91.8803 -733.93" fill="black" pen="heavier">
+48 0 0 48 288 640 e
+</path>
+<path stroke="red" matrix="1.87191 0 0 1.87191 -3.93073 -936.997" pen="ultrafat">
+128 800 m
+128 620 l
+</path>
+<path stroke="white" matrix="1.81602 0.454004 -0.340503 1.36201 -151.781 -786.343" fill="black" pen="heavier">
+48 0 0 48 288 640 e
+</path>
+<text layer="beta" stroke="white" matrix="1.87191 0 0 1.87191 -93.7823 -928.997" pos="236 664" type="label" width="9.879" height="20.754" depth="0" halign="center" valign="bottom" size="normal">\textbf{I}</text>
+<text stroke="white" matrix="1.87191 0 0 1.87191 -93.7823 -965.922" pos="236 664" type="label" width="19.179" height="20.754" depth="0" halign="center" valign="bottom" size="normal">\textbf{E}</text>
+<text stroke="white" matrix="1.87191 0 0 1.87191 -93.782 -997.922" pos="236 664" type="label" width="21.918" height="20.754" depth="0" halign="center" valign="bottom" size="normal">\textbf{G}</text>
+<text layer="gamma" stroke="black" pos="464 528" type="label" width="175.575" height="20.754" depth="0" valign="baseline" size="normal">\textbf{\kern1pt Instrumental}</text>
+<text stroke="black" pos="464 496" type="label" width="129.414" height="20.754" depth="0" valign="baseline" size="normal">\textbf{Ensemble}</text>
+<text stroke="black" pos="464 464" type="label" width="95.226" height="20.754" depth="0" valign="baseline" size="normal">\textbf{Goldau}</text>
+<text stroke="red" pos="464 528" type="label" width="12.867" height="20.754" depth="0" valign="baseline" size="normal">\textbf{\kern1pt I}</text>
+<text stroke="red" pos="464 496" type="label" width="19.179" height="20.754" depth="0" valign="baseline" size="normal">\textbf{E}</text>
+<text stroke="red" pos="464 464" type="label" width="21.918" height="20.754" depth="0" valign="baseline" size="normal">\textbf{G}</text>
+</page>
+</ipe>
