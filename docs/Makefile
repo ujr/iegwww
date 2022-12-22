@@ -2,11 +2,20 @@
 # 20180124 targets publish (to Web Server) and sync (remote Fossil)
 # 20180803 target vault (push to repository on memory stick)
 # 20181118 target seven (push with remote Fossil on Web server)
+# 20221222 migrate site to GitHub Pages
 
 STICK=/media/ujr/MEMSTICKUJR
 
 all: index.html about.html auftritte.html mitspielen.html \
 	proben.html press.html goenner.html
+
+pull:
+	@echo "Pulling changes form origin"
+	git pull origin
+
+push publish: all
+	@echo "Publishing on GitHub Pages"
+	git push origin
 
 #publish: all
 #	@echo "Publishing to foo.bar.ch"

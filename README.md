@@ -3,7 +3,7 @@
 
 Seit 2008 online unter [www.instrumentalensemble.ch][ieg]
 
-- *www/* – the stuff to be published by the web server
+- *docs/* – the stuff to be published by the web server
 - *logo/, fotos/, varia/* – related stuff, but not part of web site
 - *README.md* – this file
 
@@ -41,6 +41,7 @@ Checkout ist aber auch ohne Build sofort zur Ansicht bereit.
 Web Analytics mit [StatCounter](https://statcounter.com).
 
 Hosting auf seven.xilab.ch mit Dank an [Xilab GmbH](https://www.xilab.ch).
+Update Dez 2022: Hosting auf [GitHub Pages](https://pages.github.com/).
 
 Die Domäne *instrumentalensemble.ch* wurde am 3. März 2008
 bei SWITCH registriert. Am 29. März 2016 Wechsel zur NetZone AG,
